@@ -1,0 +1,103 @@
+--------------------------------------------------
+I seguenti pc hanno un peso basso:
+pcID: 15, peso: 0.92 kg
+pcID: 21, peso: 0.98 kg
+pcID: 51, peso: 0.69 kg
+pcID: 83, peso: 0.92 kg
+pcID: 149, peso: 0.97 kg
+pcID: 496, peso: 0.91 kg
+pcID: 754, peso: 0.81 kg
+pcID: 803, peso: 0.92 kg
+pcID: 821, peso: 0.81 kg
+pcID: 922, peso: 0.98 kg
+pcID: 1004, peso: 0.97 kg
+pcID: 1084, peso: 0.92 kg
+pcID: 1095, peso: 0.99 kg
+pcID: 1097, peso: 0.69 kg
+pcID: 1129, peso: 0.69 kg
+pcID: 1141, peso: 0.69 kg
+pcID: 1211, peso: 0.92 kg
+pcID: 1228, peso: 0.92 kg
+--------------------------------------------------
+I seguenti pc hanno Prezzo inferiore a 300 euro:
+pcID: 21, prezzo: 192.3 euro
+pcID: 23, prezzo: 258.0 euro
+pcID: 31, prezzo: 245.39 euro
+pcID: 32, prezzo: 199.0 euro
+pcID: 36, prezzo: 249.0 euro
+pcID: 69, prezzo: 229.0 euro
+pcID: 128, prezzo: 259.0 euro
+pcID: 130, prezzo: 278.39 euro
+pcID: 139, prezzo: 252.36 euro
+pcID: 195, prezzo: 260.0 euro
+pcID: 295, prezzo: 199.0 euro
+pcID: 319, prezzo: 275.0 euro
+pcID: 331, prezzo: 292.0 euro
+pcID: 344, prezzo: 275.39 euro
+pcID: 346, prezzo: 275.3 euro
+pcID: 352, prezzo: 279.0 euro
+pcID: 384, prezzo: 286.0 euro
+pcID: 436, prezzo: 299.0 euro
+pcID: 437, prezzo: 269.0 euro
+pcID: 490, prezzo: 249.3 euro
+pcID: 510, prezzo: 299.0 euro
+pcID: 511, prezzo: 265.0 euro
+pcID: 522, prezzo: 245.0 euro
+pcID: 562, prezzo: 224.0 euro
+pcID: 563, prezzo: 255.0 euro
+pcID: 582, prezzo: 249.0 euro
+pcID: 591, prezzo: 295.0 euro
+pcID: 633, prezzo: 239.0 euro
+pcID: 645, prezzo: 249.0 euro
+pcID: 653, prezzo: 274.0 euro
+pcID: 703, prezzo: 269.0 euro
+pcID: 721, prezzo: 298.0 euro
+pcID: 725, prezzo: 298.0 euro
+pcID: 726, prezzo: 265.0 euro
+pcID: 778, prezzo: 298.0 euro
+pcID: 800, prezzo: 203.3 euro
+pcID: 805, prezzo: 299.0 euro
+pcID: 860, prezzo: 299.0 euro
+pcID: 899, prezzo: 297.0 euro
+pcID: 946, prezzo: 289.3 euro
+pcID: 1006, prezzo: 271.02 euro
+pcID: 1055, prezzo: 211.2 euro
+pcID: 1063, prezzo: 288.3 euro
+pcID: 1117, prezzo: 209.0 euro
+pcID: 1135, prezzo: 196.0 euro
+pcID: 1147, prezzo: 278.0 euro
+pcID: 1169, prezzo: 297.0 euro
+pcID: 1186, prezzo: 249.0 euro
+pcID: 1216, prezzo: 272.0 euro
+pcID: 1225, prezzo: 299.0 euro
+pcID: 1233, prezzo: 174.0 euro
+pcID: 1281, prezzo: 289.0 euro
+pcID: 1286, prezzo: 209.0 euro
+pcID: 1290, prezzo: 229.0 euro
+pcID: 1295, prezzo: 289.0 euro
+pcID: 1300, prezzo: 209.0 euro
+pcID: 1304, prezzo: 229.0 euro
+pcID: 1309, prezzo: 289.0 euro
+pcID: 1314, prezzo: 209.0 euro
+pcID: 1318, prezzo: 229.0 euro
+--------------------------------------------------
+percentuale di pc 4k: 3.30 % 
+--------------------------------------------------
+costo pc maggiore: 6099.0 euro 
+--------------------------------------------------
+costo pc minore: 174.0 euro 
+--------------------------------------------------
+Pc Apple con schermo piu' piccolo: ID:1252, 11.6 pollici 
+--------------------------------------------------
+percentuale di Ultrabook presente: 15.04 % 
+--------------------------------------------------
+numero prodotti lenovo: 297 
+--------------------------------------------------
+pc Apple con MacOSX: 7 
+pc Apple con MacOSX: 27 
+pc Apple con MacOSX: 35 
+pc Apple con MacOSX: 803 
+pc Apple con MacOSX: 1084 
+pc Apple con MacOSX: 1211 
+pc Apple con MacOSX: 1228 
+pc Apple con MacOSX: 1252 
